@@ -2,7 +2,7 @@
 
 We had short introduction about Big Data and NoSQl, and after that
 we discussed about elastic and kibana.
-And at the end, we have disabused about how to analyze social network content by using elasticsearch and kibana.
+At the end, we have discussed about how to analyze social network content by using elasticsearch and kibana.
 
 # Slides
 
