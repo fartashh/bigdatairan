@@ -7,12 +7,12 @@ This repo contains all source code we used during "Big Data Iran" meetups
 
 If you are python developer you know what you should do 
 
-for the rest you can download and setup [ANACONDA](https://www.continuum.io/downloads)
+for the rest, you can download and setup [ANACONDA](https://www.continuum.io/downloads)
 
 
 ## Contributing
 
-Please feel free to fork the repo
+Please feel free to fork the repo and create pull request
 
 
 ## License
