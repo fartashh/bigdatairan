@@ -6,8 +6,8 @@ And at the end, we have disabused about how to analyze social network content by
 
 # Slides
 
-[Intor to Big Data and NoSQL](http://slides.com/fartashhaghani/bigdata-nosql)
-[Elastic and Kibana for Big Data Visualiztion](http://slides.com/fartashhaghani/elastic)
+- [Intor to Big Data and NoSQL](http://slides.com/fartashhaghani/bigdata-nosql)
+- [Elastic and Kibana for Big Data Visualiztion](http://slides.com/fartashhaghani/elastic)
 
 
 ### Prerequisites
